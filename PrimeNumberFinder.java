@@ -1,3 +1,14 @@
+/** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*  File Name    : PrimeNumberFinder.java
+*  Purpose      : Finds out whether an integer is Prime Number or not
+*  Author       : Sk Nasimul Alahi
+*  GitHub       : snalahi
+*  Collaborators: None
+*  Notes        : None
+*  Warnings     : None
+*  Exceptions   : NumberFormatException
+*   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 public class PrimeNumberFinder{
 	public static void main(String[] args) {
 		int number = 0;
